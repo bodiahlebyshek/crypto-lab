@@ -1,0 +1,21 @@
+D:\Study\ЗИ\1\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\Study\ЗИ\1\Lab1\Lab1\bin\Debug\Lab1.exe
+D:\Study\ЗИ\1\Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\Study\ЗИ\1\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+D:\Study\ЗИ\1\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\Study\ЗИ\1\Lab1\Lab1\obj\Debug\Lab1.exe
+D:\Study\ЗИ\1\Lab1\Lab1\obj\Debug\Lab1.pdb
+D:\Учёба\6 семестр\Защита информации\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\Учёба\6 семестр\Защита информации\Lab1\Lab1\bin\Debug\Lab1.exe
+D:\Учёба\6 семестр\Защита информации\Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\Учёба\6 семестр\Защита информации\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+D:\Учёба\6 семестр\Защита информации\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\Учёба\6 семестр\Защита информации\Lab1\Lab1\obj\Debug\Lab1.exe
+D:\Учёба\6 семестр\Защита информации\Lab1\Lab1\obj\Debug\Lab1.pdb
+D:\Learning\6 sem\Защита информации\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\Learning\6 sem\Защита информации\Lab1\Lab1\bin\Debug\Lab1.exe
+D:\Learning\6 sem\Защита информации\Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\Learning\6 sem\Защита информации\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+D:\Learning\6 sem\Защита информации\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\Learning\6 sem\Защита информации\Lab1\Lab1\obj\Debug\Lab1.exe
+D:\Learning\6 sem\Защита информации\Lab1\Lab1\obj\Debug\Lab1.pdb

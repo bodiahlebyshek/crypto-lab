@@ -1,0 +1,7 @@
+D:\Learning\6sem\Защита информации\Lab10\Lab10ElGam\bin\Debug\Lab10ElGam.exe.config
+D:\Learning\6sem\Защита информации\Lab10\Lab10ElGam\bin\Debug\Lab10ElGam.exe
+D:\Learning\6sem\Защита информации\Lab10\Lab10ElGam\bin\Debug\Lab10ElGam.pdb
+D:\Learning\6sem\Защита информации\Lab10\Lab10ElGam\obj\Debug\Lab10ElGam.csprojAssemblyReference.cache
+D:\Learning\6sem\Защита информации\Lab10\Lab10ElGam\obj\Debug\Lab10ElGam.csproj.CoreCompileInputs.cache
+D:\Learning\6sem\Защита информации\Lab10\Lab10ElGam\obj\Debug\Lab10ElGam.exe
+D:\Learning\6sem\Защита информации\Lab10\Lab10ElGam\obj\Debug\Lab10ElGam.pdb

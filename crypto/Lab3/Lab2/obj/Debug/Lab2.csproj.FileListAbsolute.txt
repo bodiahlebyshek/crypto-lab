@@ -1,0 +1,33 @@
+D:\Универ\Лабы\ЗИ\Lab2\Lab2\bin\Debug\Lab2.exe.config
+D:\Универ\Лабы\ЗИ\Lab2\Lab2\bin\Debug\Lab2.exe
+D:\Универ\Лабы\ЗИ\Lab2\Lab2\bin\Debug\Lab2.pdb
+D:\Универ\Лабы\ЗИ\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+D:\Универ\Лабы\ЗИ\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+D:\Универ\Лабы\ЗИ\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+D:\Универ\Лабы\ЗИ\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+D:\Универ\Лабы\ЗИ\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+D:\Универ\Лабы\ЗИ\Lab2\Lab2\obj\Debug\Lab2.exe
+D:\Универ\Лабы\ЗИ\Lab2\Lab2\obj\Debug\Lab2.pdb
+d:\Универ\Лабы\ЗИ\Lab2\Lab2\obj\Debug\Lab2.Graphs.resources
+d:\Универ\Лабы\ЗИ\Lab3\Lab2\bin\Debug\Lab2.exe.config
+d:\Универ\Лабы\ЗИ\Lab3\Lab2\bin\Debug\Lab2.exe
+d:\Универ\Лабы\ЗИ\Lab3\Lab2\bin\Debug\Lab2.pdb
+d:\Универ\Лабы\ЗИ\Lab3\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+d:\Универ\Лабы\ЗИ\Lab3\Lab2\obj\Debug\Lab2.Form1.resources
+d:\Универ\Лабы\ЗИ\Lab3\Lab2\obj\Debug\Lab2.Graphs.resources
+d:\Универ\Лабы\ЗИ\Lab3\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+d:\Универ\Лабы\ЗИ\Lab3\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+d:\Универ\Лабы\ЗИ\Lab3\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+d:\Универ\Лабы\ЗИ\Lab3\Lab2\obj\Debug\Lab2.exe
+d:\Универ\Лабы\ЗИ\Lab3\Lab2\obj\Debug\Lab2.pdb
+D:\Learning\6sem\Защита информации\Lab3,1\Lab2\bin\Debug\Lab2.exe.config
+D:\Learning\6sem\Защита информации\Lab3,1\Lab2\bin\Debug\Lab2.exe
+D:\Learning\6sem\Защита информации\Lab3,1\Lab2\bin\Debug\Lab2.pdb
+D:\Learning\6sem\Защита информации\Lab3,1\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+D:\Learning\6sem\Защита информации\Lab3,1\Lab2\obj\Debug\Lab2.Form1.resources
+D:\Learning\6sem\Защита информации\Lab3,1\Lab2\obj\Debug\Lab2.Graphs.resources
+D:\Learning\6sem\Защита информации\Lab3,1\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+D:\Learning\6sem\Защита информации\Lab3,1\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+D:\Learning\6sem\Защита информации\Lab3,1\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+D:\Learning\6sem\Защита информации\Lab3,1\Lab2\obj\Debug\Lab2.exe
+D:\Learning\6sem\Защита информации\Lab3,1\Lab2\obj\Debug\Lab2.pdb

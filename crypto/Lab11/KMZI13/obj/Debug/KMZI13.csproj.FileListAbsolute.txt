@@ -1,0 +1,44 @@
+C:\Users\Paul\Desktop\University\kripta-master\lab13\KMZI13\KMZI13\bin\Debug\KMZI13.exe.config
+C:\Users\Paul\Desktop\University\kripta-master\lab13\KMZI13\KMZI13\bin\Debug\KMZI13.exe
+C:\Users\Paul\Desktop\University\kripta-master\lab13\KMZI13\KMZI13\bin\Debug\KMZI13.pdb
+C:\Users\Paul\Desktop\University\kripta-master\lab13\KMZI13\KMZI13\bin\Debug\System.ValueTuple.dll
+C:\Users\Paul\Desktop\University\kripta-master\lab13\KMZI13\KMZI13\bin\Debug\System.ValueTuple.xml
+C:\Users\Paul\Desktop\University\kripta-master\lab13\KMZI13\KMZI13\obj\Debug\KMZI13.csprojAssemblyReference.cache
+C:\Users\Paul\Desktop\University\kripta-master\lab13\KMZI13\KMZI13\obj\Debug\ECP.g.cs
+C:\Users\Paul\Desktop\University\kripta-master\lab13\KMZI13\KMZI13\obj\Debug\Encrypt.g.cs
+C:\Users\Paul\Desktop\University\kripta-master\lab13\KMZI13\KMZI13\obj\Debug\MainWindow.g.cs
+C:\Users\Paul\Desktop\University\kripta-master\lab13\KMZI13\KMZI13\obj\Debug\App.g.cs
+C:\Users\Paul\Desktop\University\kripta-master\lab13\KMZI13\KMZI13\obj\Debug\KMZI13_MarkupCompile.cache
+C:\Users\Paul\Desktop\University\kripta-master\lab13\KMZI13\KMZI13\obj\Debug\KMZI13_MarkupCompile.lref
+C:\Users\Paul\Desktop\University\kripta-master\lab13\KMZI13\KMZI13\obj\Debug\ECP.baml
+C:\Users\Paul\Desktop\University\kripta-master\lab13\KMZI13\KMZI13\obj\Debug\Encrypt.baml
+C:\Users\Paul\Desktop\University\kripta-master\lab13\KMZI13\KMZI13\obj\Debug\MainWindow.baml
+C:\Users\Paul\Desktop\University\kripta-master\lab13\KMZI13\KMZI13\obj\Debug\KMZI13.g.resources
+C:\Users\Paul\Desktop\University\kripta-master\lab13\KMZI13\KMZI13\obj\Debug\KMZI13.Properties.Resources.resources
+C:\Users\Paul\Desktop\University\kripta-master\lab13\KMZI13\KMZI13\obj\Debug\KMZI13.csproj.GenerateResource.cache
+C:\Users\Paul\Desktop\University\kripta-master\lab13\KMZI13\KMZI13\obj\Debug\KMZI13.csproj.CoreCompileInputs.cache
+C:\Users\Paul\Desktop\University\kripta-master\lab13\KMZI13\KMZI13\obj\Debug\KMZI13.csproj.CopyComplete
+C:\Users\Paul\Desktop\University\kripta-master\lab13\KMZI13\KMZI13\obj\Debug\KMZI13.exe
+C:\Users\Paul\Desktop\University\kripta-master\lab13\KMZI13\KMZI13\obj\Debug\KMZI13.pdb
+D:\UNIVERSITY\2S\ЗИНИС\лаб 11\KMZI13\KMZI13\bin\Debug\KMZI13.exe.config
+D:\UNIVERSITY\2S\ЗИНИС\лаб 11\KMZI13\KMZI13\bin\Debug\KMZI13.exe
+D:\UNIVERSITY\2S\ЗИНИС\лаб 11\KMZI13\KMZI13\bin\Debug\KMZI13.pdb
+D:\UNIVERSITY\2S\ЗИНИС\лаб 11\KMZI13\KMZI13\bin\Debug\System.ValueTuple.dll
+D:\UNIVERSITY\2S\ЗИНИС\лаб 11\KMZI13\KMZI13\bin\Debug\System.ValueTuple.xml
+D:\UNIVERSITY\2S\ЗИНИС\лаб 11\KMZI13\KMZI13\obj\Debug\KMZI13.csprojAssemblyReference.cache
+D:\UNIVERSITY\2S\ЗИНИС\лаб 11\KMZI13\KMZI13\obj\Debug\ECP.g.cs
+D:\UNIVERSITY\2S\ЗИНИС\лаб 11\KMZI13\KMZI13\obj\Debug\Encrypt.g.cs
+D:\UNIVERSITY\2S\ЗИНИС\лаб 11\KMZI13\KMZI13\obj\Debug\MainWindow.g.cs
+D:\UNIVERSITY\2S\ЗИНИС\лаб 11\KMZI13\KMZI13\obj\Debug\App.g.cs
+D:\UNIVERSITY\2S\ЗИНИС\лаб 11\KMZI13\KMZI13\obj\Debug\KMZI13_MarkupCompile.cache
+D:\UNIVERSITY\2S\ЗИНИС\лаб 11\KMZI13\KMZI13\obj\Debug\KMZI13_MarkupCompile.lref
+D:\UNIVERSITY\2S\ЗИНИС\лаб 11\KMZI13\KMZI13\obj\Debug\ECP.baml
+D:\UNIVERSITY\2S\ЗИНИС\лаб 11\KMZI13\KMZI13\obj\Debug\Encrypt.baml
+D:\UNIVERSITY\2S\ЗИНИС\лаб 11\KMZI13\KMZI13\obj\Debug\MainWindow.baml
+D:\UNIVERSITY\2S\ЗИНИС\лаб 11\KMZI13\KMZI13\obj\Debug\KMZI13.g.resources
+D:\UNIVERSITY\2S\ЗИНИС\лаб 11\KMZI13\KMZI13\obj\Debug\KMZI13.Properties.Resources.resources
+D:\UNIVERSITY\2S\ЗИНИС\лаб 11\KMZI13\KMZI13\obj\Debug\KMZI13.csproj.GenerateResource.cache
+D:\UNIVERSITY\2S\ЗИНИС\лаб 11\KMZI13\KMZI13\obj\Debug\KMZI13.csproj.CoreCompileInputs.cache
+D:\UNIVERSITY\2S\ЗИНИС\лаб 11\KMZI13\KMZI13\obj\Debug\KMZI13.csproj.CopyComplete
+D:\UNIVERSITY\2S\ЗИНИС\лаб 11\KMZI13\KMZI13\obj\Debug\KMZI13.exe
+D:\UNIVERSITY\2S\ЗИНИС\лаб 11\KMZI13\KMZI13\obj\Debug\KMZI13.pdb
